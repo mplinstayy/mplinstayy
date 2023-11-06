@@ -1,5 +1,5 @@
 <h1 >Hi there (っ◔◡◔)っ I'm Polina</h1>
-<h3 >🫧 ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ 🫧</h3>
+<h2 >🫧 ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ 🫧</h2>
 <h4>Languages and tools:</h4> 
   
 *  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
