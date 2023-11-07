@@ -9,7 +9,7 @@
 
 <h3>Frameworks and tools:</h3> 
 
-- 🖇️ ASP.NET CORE
+- 🖇️ ASP.NET Core
 - 🖇️ MS SQL
 - 🖇️ WPF
 
