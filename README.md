@@ -12,6 +12,7 @@
 - 🖇️ ASP.NET Core
 - 🖇️ MS SQL
 - 🖇️ WPF
+- 🖇️ Jetpack Compose
 - 🖇️ Firebase
 
 
