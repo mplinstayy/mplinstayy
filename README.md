@@ -1,6 +1,6 @@
 <h1 >Hi there (っ◔◡◔)っ I'm Polina</h1>
-<h2 >🫧 ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ 🫧</h2>
-<h3>Languages:</h3> 
+<h2 >🌊 ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ 🌊</h2>
+<h3>Languages:</h3>
   
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 -  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="38" height="38"/>
